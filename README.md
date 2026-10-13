@@ -37,6 +37,7 @@ Prompts to try next, in AI Studio or with your coding assistant:
 1. "Next to the "Zoning district" row, add a link to the town's zoning map or GIS viewer."
 2. "Flag any check where my value would not allow a 6-unit building, so I can see what would need a variance."
 3. "Save the values I type for each address, so they are still there when I come back."
+4. "When I pick a language in the summary card, translate the lot check panel too. Keep district names, numbers and links as they are."
 
 ## Submit
 
