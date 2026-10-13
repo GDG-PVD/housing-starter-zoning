@@ -1,0 +1,8 @@
+{
+  "name": "Site Explorer: Challenge 1 starter",
+  "description": "Site Explorer with the Challenge 1 tab built in: What can be built at this site? For Rhode Island housing practitioners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
